@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SupportPlatform.API.BLL": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51921;http://localhost:51923"
+    }
+  }
+}
